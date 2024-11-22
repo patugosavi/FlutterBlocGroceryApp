@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Learn from - https://www.youtube.com/watch?v=Y1roIi0-Sro
+
+Output - 
+
+<p align="center">
+  <img src="https://github.com/patugosavi/FlutterBlocGroceryApp/blob/main/assets/home_page.png" alt="Home Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterBlocGroceryApp/blob/main/assets/cart_page.png" alt="Card Page" width="45%">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/patugosavi/FlutterBlocGroceryApp/blob/main/assets/wishlist_page.png" alt="Wishlist Page" width="45%">
+</p>
